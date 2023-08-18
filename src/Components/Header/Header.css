@@ -1,0 +1,14 @@
+.text{
+    font-weight: 900;
+    width: 499px;
+    font-size: 40px;
+}
+.image{
+    width: 449px;
+    height: 396px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,21 @@
+.container-------------- {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+.place-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.card-------{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10;
+}
+.small{
+    width: 200px;
+}
